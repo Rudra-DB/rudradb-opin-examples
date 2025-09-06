@@ -1,12 +1,12 @@
 
  <div align="center">
-<img width="300" height="200" alt="rudradb_logo_no_bg_sym" src="https://github.com/user-attachments/assets/6b73813e-1027-4701-a771-97e37955c159" />
-<img width="400" height="60" alt="rudradb_brandName_white_bg_no_tag" src="https://github.com/user-attachments/assets/dbdd1c1a-0b4b-4169-aa0d-9bfb67b3668f" />
-
+<img width="222" height="173" alt="rudradb_logo_no_bg_sym_small" src="https://github.com/user-attachments/assets/c6e4b717-b4fc-4193-bcfc-579823f09fea" />
+</div>
+<div align="center">
+<img width="334" height="69" alt="rudradb_brandName_no_bg_no_tag_small" src="https://github.com/user-attachments/assets/006b7e95-eca7-4390-bf34-ed99e1fa5a17" />
 </div>
 
 # RudraDB-Opin - Relationship-Aware Vector Database 
-
 # Free Version
 
 <div align="center">
@@ -22,10 +22,6 @@
 </div>
 
 ---
-
-
-
-
 
 ## 🎯 Revolutionary Auto-Intelligence for AI Developers
 
