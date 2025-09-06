@@ -1,0 +1,79 @@
+# RudraDB-Opin Example Requirements
+# =====================================
+# 
+# This file contains all dependencies needed to run the complete
+# set of RudraDB-Opin examples and tutorials.
+#
+# Install with: pip install -r requirements.txt
+
+# Core Dependencies
+# -----------------
+rudradb-opin>=1.0.0
+numpy>=1.20.0
+
+# ML Framework Integrations
+# -------------------------
+# Sentence Transformers (most examples)
+sentence-transformers>=2.0.0
+transformers>=4.20.0
+torch>=1.12.0
+
+# OpenAI Integration
+openai>=0.27.0
+
+# HuggingFace Integration  
+datasets>=2.0.0
+tokenizers>=0.12.0
+
+# LangChain Integration
+langchain>=0.0.200
+langchain-community>=0.0.20
+
+# Haystack Integration (optional)
+# farm-haystack>=1.15.0
+# haystack-ai>=2.0.0
+
+# Scientific Computing
+# --------------------
+scipy>=1.8.0
+scikit-learn>=1.1.0
+pandas>=1.4.0
+
+# Performance and Analytics
+# -------------------------
+matplotlib>=3.5.0
+plotly>=5.0.0
+seaborn>=0.11.0
+
+# Data Processing
+# ---------------
+Pillow>=9.0.0
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+
+# Development and Testing
+# ----------------------
+pytest>=7.0.0
+pytest-cov>=3.0.0
+jupyter>=1.0.0
+jupyterlab>=3.4.0
+
+# Documentation
+# -------------
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.0.0
+
+# Optional: Advanced Features
+# ---------------------------
+# umap-learn>=0.5.0        # For dimensionality reduction visualization
+# networkx>=2.8.0          # For network analysis
+# textblob>=0.17.0         # For text processing
+# spacy>=3.4.0             # For advanced NLP
+# streamlit>=1.20.0        # For web interfaces
+
+# Development Environment
+# -----------------------
+black>=22.0.0
+flake8>=5.0.0
+mypy>=0.910
+pre-commit>=2.20.0

@@ -1,0 +1,113 @@
+# RudraDB-Opin Development Requirements
+# =====================================
+#
+# Additional dependencies for development, testing, and contribution
+# Install with: pip install -r requirements-dev.txt
+
+# Include base requirements
+-r requirements.txt
+
+# Development Tools
+# -----------------
+black==23.3.0                # Code formatting
+isort==5.12.0                # Import sorting
+flake8==6.0.0                # Linting
+mypy==1.3.0                  # Type checking
+pre-commit==3.3.0            # Git hooks
+
+# Testing Framework
+# -----------------
+pytest==7.3.1               # Testing framework
+pytest-cov==4.1.0           # Coverage reporting
+pytest-xdist==3.3.1         # Parallel testing
+pytest-mock==3.10.0         # Mocking utilities
+coverage==7.2.0             # Coverage analysis
+
+# Documentation
+# -------------
+sphinx==7.0.0               # Documentation generation
+sphinx-rtd-theme==1.2.0     # Read the Docs theme
+sphinx-autodoc-typehints==1.23.0  # Type hints in docs
+myst-parser==2.0.0          # Markdown support
+
+# Jupyter Development
+# -------------------
+jupyterlab==4.0.0           # Interactive development
+notebook==6.5.4             # Jupyter notebooks
+ipywidgets==8.0.6           # Interactive widgets
+
+# Advanced Analytics (Development)
+# --------------------------------
+networkx==3.1               # Network analysis
+umap-learn==0.5.3           # Dimensionality reduction
+plotly==5.14.1              # Interactive visualizations
+dash==2.10.2                # Web applications
+
+# Performance Profiling
+# ---------------------
+memory-profiler==0.60.0     # Memory usage profiling
+line-profiler==4.0.3        # Line-by-line profiling
+py-spy==0.3.14              # Sampling profiler
+
+# Code Quality
+# ------------
+pylint==2.17.4              # Advanced linting
+bandit==1.7.5               # Security linting
+safety==2.3.5               # Dependency vulnerability check
+
+# Build Tools
+# -----------
+build==0.10.0               # Build tool
+twine==4.0.2                # Package uploading
+wheel==0.40.0               # Wheel format support
+
+# Git and Version Control
+# ----------------------
+gitpython==3.1.31           # Git operations
+bump2version==1.0.1         # Version bumping
+
+# Database and Storage
+# -------------------
+h5py==3.8.0                 # HDF5 file format
+zarr==2.14.2                # Compressed array storage
+
+# Visualization Development
+# -------------------------
+bokeh==3.1.1                # Interactive visualizations
+altair==5.0.1               # Statistical visualizations
+graphviz==0.20.1            # Graph visualization
+
+# Text Processing (Development)
+# -----------------------------
+textblob==0.17.1            # Simple text processing
+nltk==3.8.1                 # Natural language toolkit
+spacy==3.5.3                # Industrial NLP
+
+# Web Framework (for demos)
+# -------------------------
+streamlit==1.23.1           # Web app framework
+flask==2.3.2                # Lightweight web framework
+fastapi==0.97.0             # Modern web framework
+
+# Data Processing (Development)
+# -----------------------------
+polars==0.18.2              # Fast DataFrame library
+dask==2023.5.1              # Parallel computing
+joblib==1.2.0               # Parallel processing utilities
+
+# Serialization
+# -------------
+msgpack==1.0.5              # Fast serialization
+cloudpickle==2.2.1          # Enhanced pickling
+
+# Development Utilities
+# --------------------
+rich==13.4.1                # Rich terminal output
+click==8.1.3                # Command line interfaces
+tqdm==4.65.0                # Progress bars
+python-dotenv==1.0.0        # Environment variables
+
+# IDE Support
+# -----------
+jedi==0.18.2                # Code completion
+rope==1.8.0                 # Refactoring library
