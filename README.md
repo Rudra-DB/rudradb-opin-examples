@@ -1,7 +1,7 @@
 
  <div align="center">
-<img width="555" height="433" alt="rudradb_logo_no_bg_sym" src="https://github.com/user-attachments/assets/6b73813e-1027-4701-a771-97e37955c159" />
-<img width="664" height="137" alt="rudradb_brandName_white_bg_no_tag" src="https://github.com/user-attachments/assets/dbdd1c1a-0b4b-4169-aa0d-9bfb67b3668f" />
+<img width="300" height="200" alt="rudradb_logo_no_bg_sym" src="https://github.com/user-attachments/assets/6b73813e-1027-4701-a771-97e37955c159" />
+<img width="400" height="60" alt="rudradb_brandName_white_bg_no_tag" src="https://github.com/user-attachments/assets/dbdd1c1a-0b4b-4169-aa0d-9bfb67b3668f" />
 
 </div>
 
@@ -24,7 +24,7 @@
 ---
 
 
-https://github.com/user-attachments/assets/44df6fca-0c2e-41f2-a25a-9d2dac543bf3
+
 
 
 ## 🎯 Revolutionary Auto-Intelligence for AI Developers
