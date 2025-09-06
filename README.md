@@ -1,10 +1,12 @@
 
-<!-- <div align="center">
+ <div align="center">
 <img src="media/images/rudradb_logo_no_bg_sym.png" alt="RudraDB" class="brand-logo">
 <img src="media/images/rudradb_brandName_no_bg_no_tag.png" alt="RudraDB" class="brand-name-logo">
-</div> -->
+</div>
 
-# RudraDB-Opin - Relationship-Aware Vector Database (Free Version)
+# RudraDB-Opin - Relationship-Aware Vector Database 
+
+# Free Version
 
 <div align="center">
 
