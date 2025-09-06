@@ -1,13 +1,13 @@
 
  <div align="center">
-<img width="222" height="173" alt="rudradb_logo_no_bg_sym_small" src="https://github.com/user-attachments/assets/c6e4b717-b4fc-4193-bcfc-579823f09fea" />
+<img width="112" height="87" alt="rudradb_logo_no_bg_sym_smallest" src="https://github.com/user-attachments/assets/01cb40ea-6d5f-415e-ba11-88eb830da64f" />
 </div>
 <div align="center">
-<img width="334" height="69" alt="rudradb_brandName_no_bg_no_tag_small" src="https://github.com/user-attachments/assets/006b7e95-eca7-4390-bf34-ed99e1fa5a17" />
+<img width="169" height="35" alt="rudradb_brandName_no_bg_no_tag_smallest" src="https://github.com/user-attachments/assets/88e7135a-3184-4ce3-a35d-6f3cdc3ac5d3" />
 </div>
 
 # RudraDB-Opin - Relationship-Aware Vector Database 
-# Free Version
+### Repository contains Examples of RudraDB-Opin (Free Version)
 
 <div align="center">
 
