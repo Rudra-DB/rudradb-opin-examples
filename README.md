@@ -22,6 +22,47 @@
 </div>
 
 ---
+### 🆓 **100% Forever Free Version with Premium Features**
+- **100 vectors** - Perfect tutorial and learning size
+- **500 relationships** - Rich relationship modeling capability  
+- **🎯 Auto-Dimension Detection** - Works with any ML model instantly
+- **🧠 Auto-Relationship Detection** - Builds intelligent connections automatically
+- **🪄 Auto-Optimize Search** - quicker search response automatically
+- **📈 Auto-Intelligent Knowlege Graph Construction** - Builds intelligent knowledge graph construction for connected relationships automatically
+- **Complete feature set** - All 5 relationship types and algorithms
+- **Multi-hop discovery** - 2-degree relationship traversal
+- **No usage tracking** - Complete privacy and freedom
+- **Production-quality code** - Same codebase as enterprise RudraDB
+
+## 📦 Quick Installation & Setup
+
+### Install from PyPI
+```bash
+pip install rudradb-opin
+```
+
+### Verify Installation with Auto-Features
+```python
+import rudradb
+import numpy as np
+
+# Test auto-dimension detection
+db = rudradb.RudraDB()  # No dimension specified!
+print(f"🎯 Auto-dimension detection: {'✅ Enabled' if db.dimension() is None else 'Manual'}")
+
+# Test with random embedding
+test_embedding = np.random.rand(384).astype(np.float32)
+db.add_vector("test", test_embedding, {"test": True})
+print(f"🎯 Auto-detected dimension: {db.dimension()}")
+
+# Verify auto-relationship capabilities
+print(f"🧠 Auto-relationship detection: ✅ Available")
+print(f"📊 Limits: {rudradb.MAX_VECTORS} vectors, {rudradb.MAX_RELATIONSHIPS} relationships")
+print(f"🎉 RudraDB-Opin {rudradb.__version__} ready with auto-intelligence!")
+```
+
+---
+
 
 ## 🎯 Revolutionary Auto-Intelligence for AI Developers
 
@@ -219,53 +260,15 @@ print(f"\n🎉 RudraDB-Opin discovered {sum(1 for r in enhanced_results if r.hop
 print("    that traditional vector databases would completely miss!")
 ```
 
-### 🆓 **100% Free Version with Premium Features**
-- **100 vectors** - Perfect tutorial and learning size
-- **500 relationships** - Rich relationship modeling capability  
-- **🎯 Auto-Dimension Detection** - Works with any ML model instantly
-- **🧠 Auto-Relationship Detection** - Builds intelligent connections automatically
-- **Complete feature set** - All 5 relationship types and algorithms
-- **Multi-hop discovery** - 2-degree relationship traversal
-- **No usage tracking** - Complete privacy and freedom
-- **Production-quality code** - Same codebase as enterprise RudraDB
-
 ### 🚀 **Ready for Production?**
 When you outgrow the 100-vector limit, upgrade seamlessly:
 ```bash
 pip uninstall rudradb-opin
-pip install rudradb  # Get 100,000+ vectors, same API!
+pip install rudradb  # Get 1M+ vectors for PRO & Unlimited Vector for Enterprise, same API! 
 ```
 
 ---
 
-## 📦 Quick Installation & Setup
-
-### Install from PyPI
-```bash
-pip install rudradb-opin
-```
-
-### Verify Installation with Auto-Features
-```python
-import rudradb
-import numpy as np
-
-# Test auto-dimension detection
-db = rudradb.RudraDB()  # No dimension specified!
-print(f"🎯 Auto-dimension detection: {'✅ Enabled' if db.dimension() is None else 'Manual'}")
-
-# Test with random embedding
-test_embedding = np.random.rand(384).astype(np.float32)
-db.add_vector("test", test_embedding, {"test": True})
-print(f"🎯 Auto-detected dimension: {db.dimension()}")
-
-# Verify auto-relationship capabilities
-print(f"🧠 Auto-relationship detection: ✅ Available")
-print(f"📊 Limits: {rudradb.MAX_VECTORS} vectors, {rudradb.MAX_RELATIONSHIPS} relationships")
-print(f"🎉 RudraDB-Opin {rudradb.__version__} ready with auto-intelligence!")
-```
-
----
 
 ## 🤖 Complete ML Framework Integrations
 
