@@ -15,6 +15,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/rudradb-opin.svg?style=for-the-badge)](https://pypi.org/project/rudradb-opin/)
 [![Python versions](https://img.shields.io/pypi/pyversions/rudradb-opin.svg?style=for-the-badge)](https://pypi.org/project/rudradb-opin/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/rudradb-opin?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/rudradb-opin)
 
 **🌟 The World's First Relationship-Aware Vector Database (Free Version)**  
 *Perfect for Learning, Tutorials, Hackathons, Enterprise POCs and AI Development*
